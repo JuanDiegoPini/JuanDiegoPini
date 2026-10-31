@@ -1,10 +1,10 @@
 
 <div align="center">
 
+# Hi, I'm Juan Diego 👋
+
 <img src="./banner-de-conceptos-palabra-sobre-protección-datos-seguridad-cibernética-internet-marco-infografía-con-iconos-lineales-fondo-196237209.webp" alt="Banner de Juan Diego" width="100%" />
 
-
-# Hi, I'm Juan Diego 👋
 
 ### Systems Engineering Student | AI & Cybersecurity Enthusiast | Software Developer
 
