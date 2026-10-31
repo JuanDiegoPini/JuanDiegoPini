@@ -3,7 +3,7 @@
 
 # Hi, I'm Juan Diego, and welcome to my Github profile 👋
 
-<img src="./banner-de-conceptos-palabra-sobre-protección-datos-seguridad-cibernética-internet-marco-infografía-con-iconos-lineales-fondo-196237209.webp" alt="Banner de Juan Diego" width="100%" />
+<img src="./shutterstock_2510584693-1" alt="Banner de Juan Diego" width="100%" />
 
 
 ### Systems Engineering Student | AI & Cybersecurity Enthusiast | Software Developer
