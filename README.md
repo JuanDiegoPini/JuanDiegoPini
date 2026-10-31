@@ -3,7 +3,8 @@
 
 # Hi, I'm Juan Diego, and welcome to my Github profile 👋
 
-<img src="./shutterstock_2510584693-1" alt="Banner de Juan Diego" width="100%" />
+
+<img src="./shutterstock_2510584693-1.jpg" alt="Banner de Juan Diego" width="100%" />
 
 
 ### Systems Engineering Student | AI & Cybersecurity Enthusiast | Software Developer
